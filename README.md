@@ -16,21 +16,23 @@
   </h3>
 </div>
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/a6006428-6c14-48a3-a388-0df361a80212/deploy-status)](https://app.netlify.com/sites/quote-generator-a1e073/deploys)
+
 ## Overview
 
 Visit [https://quote-generator-a1e073.netlify.app/](https://quote-generator-a1e073.netlify.app/).
 
 Desktop
 
-![screenshot](./screenshot-desktop.png)
+![screenshot](./doc-images/screenshot-desktop.png)
 
-![screenshot](./screenshot-desktop-2.png)
+![screenshot](./doc-images/screenshot-desktop-2.png)
 
 Mobile
 
-![screenshot](./screenshot-mobile.png)
+![screenshot](./doc-images/screenshot-mobile.png)
 
-![screenshot](./screenshot-mobile-2.png)
+![screenshot](./doc-images/screenshot-mobile-2.png)
 ## Features
 
 This application/site was created as a submission to a [DevChallenges](https://devchallenges.io/challenges) challenge. The [challenge](https://devchallenges.io/challenges/8Y3J4ucAMQpSnYTwwWW8) was to build an application to complete the given user stories.
